@@ -1,0 +1,6 @@
+{
+  "name": "Đọc Kinh Thánh Mỗi Ngày",
+  "description": "Ứng dụng giúp Anh Chị Em đọc Kinh Thánh theo lộ trình 12 tháng (Bản dịch Phan Khôi 1925 theo quan điểm WATV.ORG), tích hợp mục lưu và tải về file Word nội dung 12 tháng, bộ câu hỏi trắc nghiệm theo 3 mức độ và quản lý tiến độ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
